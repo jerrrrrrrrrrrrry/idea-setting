@@ -38,6 +38,18 @@
           <option name="url" value="https://github.com/jerrrrrrrrrrrrry/redtorch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.example.com/luw/expressplat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.2.240/luw/expressplat" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.2.240" />
+          <option name="userName" value="gubw@m56.com.cn" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\" />
